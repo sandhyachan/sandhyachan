@@ -1,10 +1,10 @@
 # Hey there, I'm Sandhya Chan 🌙
 
-Welcome to to my little corner of GitHub! I'm a programmer and artist exploring the intersection of the world of technology and the lens of creativity.
+Welcome to my little corner of GitHub! I'm a programmer and artist exploring the intersection of the world of technology and the lens of creativity.
 
 ## About Me
 
-- 👩🏻‍💻**Full-Stack Developer**: Currently specialising in the **MERN Stack** where I enjoy building seamless web applications.
+- 👩🏻‍💻**Full-Stack Developer**: Currently learning the **MERN Stack** where I enjoy building seamless web applications.
 - 🎨**Artist**: My art explores portraiture and storytelling through digital and traditonal mediums.
 - 🌱**Lifelong Learner**: Be it a new language, reading books, or exploring new frameworks, I'm always eager to expand my horizons.
 
